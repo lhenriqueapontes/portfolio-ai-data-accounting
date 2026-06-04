@@ -1,34 +1,49 @@
-# Portfólio de Projetos — IA, Dados, Contabilidade & ERP
+# Portfólio Profissional — IA, Dados, Contabilidade, ERP e Saúde Digital
 
-Este repositório centraliza projetos demonstrativos nas áreas de Inteligência Artificial, Ciência de Dados, Contabilidade, Auditoria, ERP, BI, Automação, Saúde Digital e Docência. Cada subdiretório em `/projects` representa um projeto individual com README, código e dados sintéticos.
+Repositório central do portfólio de Luiz Henrique de Azevedo Pontes, reunindo projetos demonstrativos voltados à empregabilidade em **Data Analytics, BI, Data Science, Machine Learning, ERP contábil, auditoria, controladoria, automação e saúde digital**.
 
-## Estrutura
+## Estratégia
 
-- **/projects** – Contém os projetos principais em pastas separadas.
-- **/docs** – Documentação adicional, artigos e notas técnicas.
-- **/assets** – Imagens e outros recursos compartilhados.
-- **/career** – Materiais de carreira, mapas de cargos, relatórios de vagas e currículos.
+O portfólio prioriza primeiro projetos de **contabilidade, auditoria, ERP e BI**, pois têm maior aderência imediata ao perfil profissional e às vagas de entrada/pleno. Depois entram projetos de governança, SQL, ensino de ML, XAI e, por último, saúde digital com máxima cautela ética.
 
-## Projetos Disponíveis
+## Projetos principais
 
-- **accounting-audit-automation-python** – Automação de auditoria contábil com Python.
-- **erp-support-analytics-dashboard** – Análise de chamados de suporte a sistemas ERP.
-- **financial-bi-controladoria** – Painel financeiro e indicadores de controladoria.
-- **medical-ai-screening-pipeline** – Pipeline genérico de triagem médica com dados sintéticos.
-- **machine-learning-teaching-labs** – Laboratórios didáticos para ensino de Machine Learning.
-- **sql-business-analytics-cases** – Casos de análise de negócios com SQL.
-- **fiscal-tax-data-analysis** – Análise de dados fiscais sintéticos e inconsistências tributárias.
-- **model-evaluation-and-xai-toolkit** – Ferramentas para avaliação de modelos e interpretabilidade.
-- **data-quality-governance-toolkit** – Toolkit de qualidade e governança de dados.
-- **rpa-document-processing-demo** – Demonstração de automação de processamento de documentos.
-- **retinal-image-classification-demo** – Classificação de imagens retinianas com dados públicos ou sintéticos.
+| Projeto | Área | Objetivo |
+|---|---|---|
+| [accounting-audit-automation-python](https://github.com/lhenriqueapontes/accounting-audit-automation-python) | Auditoria + Python | Detectar duplicidades, anomalias e inconsistências em lançamentos sintéticos. |
+| [erp-support-analytics-dashboard](https://github.com/lhenriqueapontes/erp-support-analytics-dashboard) | ERP + BI | Analisar tickets sintéticos de suporte, SLA e produtividade. |
+| [financial-bi-controladoria](https://github.com/lhenriqueapontes/financial-bi-controladoria) | Controladoria | DRE, fluxo de caixa e indicadores financeiros demonstrativos. |
+| [fiscal-tax-data-analysis](https://github.com/lhenriqueapontes/fiscal-tax-data-analysis) | Fiscal/Tributário | Explorar dados fiscais sintéticos/públicos com foco em compliance. |
+| [data-quality-governance-toolkit](https://github.com/lhenriqueapontes/data-quality-governance-toolkit) | Governança | Validar schema, nulos, duplicidades, outliers e qualidade de dados. |
+| [sql-business-analytics-cases](https://github.com/lhenriqueapontes/sql-business-analytics-cases) | SQL/BI | Resolver problemas de negócio com consultas SQL. |
+| [machine-learning-teaching-labs](https://github.com/lhenriqueapontes/machine-learning-teaching-labs) | Ensino/ML | Laboratórios didáticos de Python e machine learning. |
+| [model-evaluation-and-xai-toolkit](https://github.com/lhenriqueapontes/model-evaluation-and-xai-toolkit) | ML/XAI | Métricas, curvas ROC, threshold e interpretabilidade. |
+| [rpa-document-processing-demo](https://github.com/lhenriqueapontes/rpa-document-processing-demo) | RPA/OCR | Demo de extração de campos de documentos sintéticos. |
+| [medical-ai-screening-pipeline](https://github.com/lhenriqueapontes/medical-ai-screening-pipeline) | IA Saúde | Pipeline genérico com dados públicos/sintéticos. |
+| [retinal-image-classification-demo](https://github.com/lhenriqueapontes/retinal-image-classification-demo) | Visão Computacional | Demonstração genérica de classificação de retina, sem dados da dissertação. |
 
-Novos projetos podem ser adicionados em `/projects` conforme desenvolvidos.
+## Regras de segurança
 
-## Como Navegar
+- Não publicar código final da dissertação, arquitetura sensível, pesos de modelos ou dados de pesquisa.
+- Não publicar imagens médicas reais, dados de pacientes, prontuários, documentos institucionais ou material da INOVA/UFPB.
+- Não publicar dados reais de clientes, bases de ERP, notas fiscais reais, CPF ou CNPJ.
+- Usar apenas dados sintéticos, públicos ou exemplos didáticos.
+- Manter `DISCLAIMER.md`, `REFERENCES.md` e licença adequada em cada projeto.
 
-Cada projeto possui um README que descreve seu objetivo, problema de negócio, tecnologias, estrutura de pastas, modo de execução e resultados esperados. Para explorar um projeto específico, acesse a pasta correspondente dentro de `/projects`.
+## Perfil profissional demonstrado
 
-## Aviso Ético
+- Python para dados e automação
+- BI financeiro e controladoria
+- Auditoria de dados e compliance
+- ERP contábil e suporte técnico
+- SQL para negócios
+- Governança e qualidade de dados
+- Machine learning e avaliação de modelos
+- Saúde digital e visão computacional com responsabilidade
 
-Todos os exemplos e dados neste portfólio são públicos ou sintéticos. Não incluímos dados sensíveis, código proprietário ou conteúdo sigiloso. Os projetos servem exclusivamente para fins educacionais e profissionais, demonstrando competências técnicas sem violar direitos autorais ou acordos de confidencialidade.
+## Próximos passos
+
+1. Completar scripts mínimos funcionais em cada repositório.
+2. Gerar outputs: CSVs sintéticos, relatórios Markdown, gráficos e prints de dashboard.
+3. Atualizar o LinkedIn com link para este hub.
+4. Fixar no perfil os projetos de maior empregabilidade: auditoria, ERP, controladoria, portfólio central, ensino de ML e XAI.
